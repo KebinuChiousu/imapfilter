@@ -11,7 +11,7 @@ MYLIBS =
 INCDIRS =
 LIBDIRS =
 
-LIBLUA = -llua
+LIBLUA = -llua5.2
 LIBPCRE = -lpcre
 LIBSSL = -lssl
 LIBCRYPTO = -lcrypto

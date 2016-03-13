@@ -1,3 +1,12 @@
+IMAPFilter 2.6.6 - 23 Jan 2016
+  - Bug fix; print an error message if "ssl" has been set to "ssl3".
+
+IMAPFilter 2.6.5 - 18 Jan 2016
+  - Possible to build again with OpenSSL when support for SSL 3.0 is disabled.
+
+IMAPFilter 2.6.4 - 8 Dec 2015
+  - Support for OAuth 2.0 and the XOAUTH2 authentication mechanism.
+
 IMAPFilter 2.6.3 - 30 Sep 2015
   - Support for loading a default CA certificates file.
   - A new has_unkeyword() method to search messages without a keyword flag set.
